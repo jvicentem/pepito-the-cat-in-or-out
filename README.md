@@ -1,2 +1,2 @@
-# pepito-the-cat-night-or-day
-Silly project to predict if it's night or day from pics tweeted from this Twitter account https://twitter.com/PepitoTheCat
+# pepito-the-cat-in-or-out
+Project to predict if Pepito is back or leaving home from pics tweeted from this Twitter account https://twitter.com/PepitoTheCat
